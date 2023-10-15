@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hiya,
 
 <!--
 **sharanya204/sharanya204** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm Sharanya; UX enthusiast and builder of things. 
+
+I have a background in design, fluency in a variety of back end and front end development paradigms, and I'm passionate about engineering engaging experiences.
+
+I'm also an extremely ardent climber of rocks. Sometimes I draw comics about archaic medical practices, and playing Counterfactuals brings me much joy.
